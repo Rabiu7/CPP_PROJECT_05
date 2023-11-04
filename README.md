@@ -14,6 +14,6 @@ _Enter Voter ID and put a Vote_
 ![Screenshot (50)](https://github.com/Rabiu7/CPP_PROJECT_05/assets/132151445/e7863d80-b894-46b7-ae35-e43833c500bc)
 ![Screenshot (51)](https://github.com/Rabiu7/CPP_PROJECT_05/assets/132151445/7667c43d-1a17-4c4c-9c0a-b08acacd094c)
 
-_Result_
+_Voting Result_
 
 ![Screenshot (52)](https://github.com/Rabiu7/CPP_PROJECT_05/assets/132151445/5c49c993-027f-4e25-9d24-45686d5ffa2e)
